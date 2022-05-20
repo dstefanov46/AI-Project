@@ -1,7 +1,5 @@
 ## Practical Assignment in the Subject *Artificial Intelligence*
 
---------------
-
 This repository contains the project titled *Reinforcement Learning Trading Bot for Cryptocurrencies* created as part of
 the subject *Artificial Intelligence*. 
 
