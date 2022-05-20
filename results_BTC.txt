@@ -1,0 +1,188 @@
+
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': -36.75999999999976, 'total_profit': 0.9038746066159514, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': -3063.5699999999997, 'total_profit': 1.2027976649091772, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10718685.8380581
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10301874.689809892
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 515.8100000000081, 'total_profit': 0.00030129753601612, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.2127991489361702, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.2171220903748916, 'position': 1}
+max_possible_profit: 10718685.8380581
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10301874.689809892
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -20.11999999999898, 'total_profit': 0.5626169390210725, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -3484.7700000000004, 'total_profit': 1.1076321051697229, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.2213625461926672, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.2171220903748916, 'position': 1}
+max_possible_profit: 10718685.8380581
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.2006681430033856, 'position': 1}
+max_possible_profit: 10301874.689809892
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 126.67999999999529, 'total_profit': 0.02928750135694238, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.2213625461926672, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -24.080000000000382, 'total_profit': 0.88330728378265, 'position': 0}
+max_possible_profit: 10718685.8380581
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10301874.689809892
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.2127991489361702, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.2213625461926672, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10718685.8380581
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.2006681430033856, 'position': 1}
+max_possible_profit: 10301874.689809892
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.2127991489361702, 'position': 1}
+max_possible_profit: 10839245.92429233
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.2171220903748916, 'position': 1}
+max_possible_profit: 10718685.8380581
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10301874.689809892
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 10839245.92429233
+Window size: 3
