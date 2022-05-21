@@ -15,7 +15,7 @@ conda activate environment
 
 Our work can be mainly divided in 3 files:
 - ``libs.py``: in this file we import all the necessary libraries,
-- ``help_funcs.py``: here we have all the functions we need, both for the data preprocessing and the learning of the model,
+- ``helper_funcs.py``: here we have all the functions we need, both for the data preprocessing and the learning of the model,
 - ``callback.py``: in this file we've created a **callback** class which saves the best-perfoming model up to a certain
 point during the training.
 
