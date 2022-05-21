@@ -1,0 +1,721 @@
+
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.29000000000000625, 'total_profit': 0.9876801859865575, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': -64.1, 'total_profit': 3.1023190757885533, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 1.5, 'total_profit': 0.9840048665759693, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 379.26000000000005, 'total_profit': 8.21139428995628e-07, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': -1.120000000000303, 'total_profit': 3.359023360003942e-08, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 424.57000000000005, 'total_profit': 2.4238587069171533e-08, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 2.2799999999999443, 'total_profit': 0.06368414694240512, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 42.67999999999999, 'total_profit': 0.00477813606489197, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 56.19999999999999, 'total_profit': 2.5110997932701595, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 1.3299999999999983, 'total_profit': 0.9993198671168718, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 3.840863689776733, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 350.3300000000004, 'total_profit': 2.33803840076538e-06, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 49.13000000000012, 'total_profit': 1.927959112381276e-06, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -45.92999999999995, 'total_profit': 1.923348956048843, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 272.42000000000024, 'total_profit': 0.061288828774050716, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 470.9300000000004, 'total_profit': 4.355185978604652e-06, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 479.49, 'total_profit': 2.3258700255211646e-06, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.615498516768063, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.6641350318471333, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.840863689776733, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.615498516768063, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 46.49999999999987, 'total_profit': 5.446320298725658e-05, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.840863689776733, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 3.615498516768063, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 3.6641350318471333, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 24.509999999999607, 'total_profit': 0.0020675430186362443, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 16.089999999999833, 'total_profit': 0.09133776908508282, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': -7.499999999999972, 'total_profit': 0.014825042166902565, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': 489.84999999999997, 'total_profit': 2.4236770081070496e-07, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000
+performance: {'total_reward': -64.94999999999997, 'total_profit': 3.2966792698903514e-08, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 3.615498516768063, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 27.279999999999873, 'total_profit': 0.006000676884286858, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 548.7599999999998, 'total_profit': 7.535967363693757e-06, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 41.55999999999993, 'total_profit': 0.17202488643622607, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': -5.199999999999918, 'total_profit': 0.508348953378305, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': -0.9500000000001307, 'total_profit': 0.15756836418238615, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 10000
+performance: {'total_reward': 89.61000000000023, 'total_profit': 5.530366701010965e-07, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': -111.97, 'total_profit': 3.4283528017682996, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.840863689776733, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.6641350318471333, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.7999999999999972, 'total_profit': 0.9923318333025319, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.840863689776733, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 272.48000000000013, 'total_profit': 0.11690955646839436, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.6641350318471333, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [[128], [128]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': -12.749999999999844, 'total_profit': 0.09258964791503232, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.21000000000000796, 'total_profit': 0.9873847686230248, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 425.0199999999999, 'total_profit': 8.515491131073349e-07, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 351.4699999999998, 'total_profit': 0.00010177212387779859, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 71.38000000000007, 'total_profit': 0.04995946868715269, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 8.589999999999918, 'total_profit': 0.04420661406441909, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 420.5799999999994, 'total_profit': 2.547620932284286e-09, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000
+performance: {'total_reward': 10.179999999999993, 'total_profit': 0.00013358826496413673, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -74.87, 'total_profit': 2.7887827670359453, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 104.71000000000002, 'total_profit': 2.7960566253576977e-08, 'position': 0}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 7.540000000000205, 'total_profit': 0.0005435837783432275, 'position': 0}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -0.840000000000046, 'total_profit': 0.9199780593974537, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 36.50999999999982, 'total_profit': 1.2839645699897765e-07, 'position': 0}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': 243.59999999999997, 'total_profit': 0.0008842621536436525, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 10000
+performance: {'total_reward': -79.85, 'total_profit': 3.8722334475180697, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': -93.18999999999998, 'total_profit': 3.521797438803533, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 212.73000000000044, 'total_profit': 1.7728163749948748e-14, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 408.3199999999989, 'total_profit': 1.6093406586350383e-05, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 389.35999999999956, 'total_profit': 4.3259439631601063e-13, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 269.1099999999997, 'total_profit': 5.990065059837575e-14, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.615498516768063, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 1.0, 'position': 0}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 3.840863689776733, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 100000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.615498516768063, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.6641350318471333, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 3.6335851440121276, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 322.76, 'total_profit': 2.9839526081486714, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: A2C
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 431.75000000000006, 'total_profit': 3.058311359814617, 'position': 1}
+max_possible_profit: 111676803305.7739
+Window size: 1
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 373.2500000000001, 'total_profit': 1.2257911178099465, 'position': 1}
+max_possible_profit: 123188195279.23071
+Window size: 3
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 95.12000000000018, 'total_profit': 0.025059428564083837, 'position': 1}
+max_possible_profit: 116876728086.83575
+Window size: 6
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 302.30999999999955, 'total_profit': 5.407633938286994e-14, 'position': 1}
+max_possible_profit: 116846950576.49557
+Window size: 12
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 60.599999999999994, 'total_profit': 0.03289520086278746, 'position': 1}
+max_possible_profit: 114308309484.90799
+Window size: 24
+Policy: PPO
+Policy kwargs: [64, [64], [64]]
+Timesteps: 1000000
+performance: {'total_reward': 0.0, 'total_profit': 4.131731211215812, 'position': 1}
+max_possible_profit: 111676803305.7739
