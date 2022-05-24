@@ -21,7 +21,7 @@ from stable_baselines3.common.results_plotter import load_results, ts2xy
 import pandas as pd
 import numpy as np
 import quantstats as qs
-from IPython import display
+from IPython.display import display
 from matplotlib import pyplot as plt
 
 np.random.seed(0)

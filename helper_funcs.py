@@ -104,3 +104,37 @@ def test_hp_set(cc, train_df, test_df, window_size, log_dir, comb, policy, verbo
     model = create_model(cc, env, policy, policy_kwargs, comb, verbose, timesteps, callback)
 
     evaluate_model(cc, test_df, window_size, model)
+    
+def analyze_results(cc, profit_bound):
+    best_models = []
+    with open(f'results_{cc}.txt', 'r') as file:
+        f = file.readlines()
+    for (i, line) in enumerate(f):
+        if 'total_profit' in line: 
+            total_profit = float(line.split("'total_profit': ")[1].split(',')[0])
+            if total_profit > profit_bound:
+                window_size = int(f[i - 4].split('Window size: ')[1])
+                policy = f[i - 3].split('Policy: ')[1].replace('\n', '')
+                arg_els = f[i - 2].split('Policy kwargs: ')
+                if arg_els[1].count(',') == 1:
+                    if '64' in arg_els[1]:
+                        shared, vf, pg = '/', 64, 64
+                    else:
+                        shared, vf, pg = '/', 128, 128
+                else:
+                    shared, vf, pg = 64, 64, 64
+                timesteps = f[i - 1].split('Timesteps: ')[1].replace('\n', '')
+                temp_dict = {'window size': window_size,
+                             'policy':      policy,
+                             'shared layers': shared,
+                             'value network': vf,
+                             'policy network': pg,
+                             'timesteps': timesteps,
+                             'total_profit': total_profit}
+
+                best_models.append(temp_dict)
+            
+    result_df = pd.concat([pd.Series(model) for model in best_models], axis=1).T
+    result_df = result_df.drop_duplicates()
+    
+    return result_df
